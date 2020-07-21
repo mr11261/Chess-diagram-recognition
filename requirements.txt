@@ -19,7 +19,7 @@ Flask==1.1.2
 future==0.18.2
 Guake==3.0.5
 html5lib==0.999999999
-httplib2==0.9.2
+httplib2==0.18.0
 idna==2.6
 imutils==0.5.3
 itsdangerous==1.1.0
